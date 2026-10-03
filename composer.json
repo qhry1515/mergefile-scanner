@@ -1,0 +1,9 @@
+{
+  "name": "local/mergefile",
+  "description": "Local merge files to PDF (PHP)",
+  "require": {
+    "setasign/fpdi": "^2.3",
+    "setasign/fpdf": "^1.8",
+    "smalot/pdfparser": "^2.12"
+  }
+}
